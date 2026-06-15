@@ -15,3 +15,4 @@ Calculadora fake 100% no real
 Funcion division
 
 ---
+### Notas: las funciones son fake
