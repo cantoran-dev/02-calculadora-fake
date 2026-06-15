@@ -16,3 +16,4 @@ Funcion division
 
 ---
 ### Notas: las funciones son fake
+Reset y luego revert
